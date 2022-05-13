@@ -1,0 +1,14 @@
+body{
+    background-color: aquamarine;
+    color:crimson;
+    font-family: sans-serif ;
+}
+h1{
+    font-family: 25px;
+    text-align: center;
+}
+.botao1,
+.botao2{
+text-decoration: none;
+
+}
