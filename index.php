@@ -9,10 +9,8 @@
 </head>
 <body>
     <h1>SolaPato</h1>
-    <div>
     <a href ="tela-cadastra.php" class="botao1">Cadastro de sapato</a>
     <br>
     <a href ="tela-pedidos.php" class="botao2">Lista de sapato</a>
-</div>
 </body>
 </html>
