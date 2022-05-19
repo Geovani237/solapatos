@@ -1,2 +1,2 @@
 # solapatos
- Tela de venda de sapato 
+ Tela de cadastro de sapato 
